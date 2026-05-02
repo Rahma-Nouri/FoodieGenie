@@ -8,7 +8,7 @@ FoodieGenie generates creative, weird, and trending food combos using Google's G
 
 ## 🎬 Demo
 
-[![Watch the demo](https://img.shields.io/badge/▶_Watch_Demo-FF7AC6?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/P8uWnSB9GN8)
+(https://youtu.be/P8uWnSB9GN8)
 
 
 ---
