@@ -1,4 +1,4 @@
-# 🧞‍♂️ FoodieGenie
+# FoodieGenie
 
 > *Your wish is my recipe* — a magical AI-powered food combo generator
 
@@ -6,23 +6,23 @@ FoodieGenie generates creative, weird, and trending food combos using Google's G
 
 ---
 
-## 🎬 Demo
+##Demo
 
 (https://youtu.be/P8uWnSB9GN8)
 
 
 ---
 
-## ✨ Features
+## Features
 
-- 🍕 **AI Combo Generation** — Gemini 2.5 Flash generates creative food combos with full recipes
-- 📸 **AI Food Photography** — Imagen 4 generates a matching food image for each combo
-- 🎵 **Sound Effects** — Mysterious magical sounds play while your wish is being granted
-- 🧞‍♂️ **Animated Genie UI** — Aladdin-inspired design with floating food emojis and a magic lamp loading screen
-- ⭐ **Rating System** — Rate each combo after it's revealed
+- **AI Combo Generation** — Gemini 2.5 Flash generates creative food combos with full recipes
+- **AI Food Photography** — Imagen 4 generates a matching food image for each combo
+- **Sound Effects** — Mysterious magical sounds play while your wish is being granted
+- **Animated Genie UI** — Aladdin-inspired design with floating food emojis and a magic lamp loading screen
+- **Rating System** — Rate each combo after it's revealed
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 combo-generator/
@@ -42,7 +42,7 @@ combo-generator/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -88,7 +88,7 @@ Open [http://localhost:5174](http://localhost:5174) in your browser.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -102,7 +102,7 @@ Open [http://localhost:5174](http://localhost:5174) in your browser.
 
 ---
 
-## 🌐 API Endpoints
+## API Endpoints
 
 ### `GET /`
 Health check — returns server status.
@@ -138,7 +138,7 @@ Generates a food combo with image.
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 | Variable | Description |
 |---|---|
@@ -147,6 +147,6 @@ Generates a food combo with image.
 
 ---
 
-## 📄 License
+## License
 
 MIT — feel free to use, modify, and share.
